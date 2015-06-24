@@ -1,3 +1,7 @@
+# Deprecated #
+
+This repo has been superceded by the offical [Weaveworks Guides](http://github.com/weaveworks/guides) repo. 
+
 # Weave Getting Started Guides #
 
 A set of getting started guides demonstrating Weave 
